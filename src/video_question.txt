@@ -1,0 +1,11 @@
+The video link is here:
+
+https://www.youtube.com/watch?v=5tJPXYA0Nec
+
+Please watch the video and answer these questions:
+
+
+1. What is the name of the rocket in the video?
+2. Can the number 16 (in decimal) be represented with a 4 bit integer?
+3. What is the significance of the number 32,767?
+4. What is an overflow error and how does it relate to the disaster in the video?
